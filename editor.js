@@ -706,7 +706,7 @@ d.height + ", ", a += d.count + ", 1000, " + c(d.color) + "));\n"));
                     u = k, m = q;
                     break;
                 case 78:
-                    1 >= p || r.push(d(40, 40, 0, 0, {
+                    r.push(d(40, 40, 0, 0, {
                         type: 3,
                         color: t[p - 1],
                         colorCode: p - 1,
